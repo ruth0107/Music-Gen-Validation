@@ -1,1 +1,1 @@
-# Music-Gen-Validation-Using-FADscore-Entropy
+# Music-Gen-Validation-Using-FAD-score-Entropy
