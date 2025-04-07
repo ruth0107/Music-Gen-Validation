@@ -59,18 +59,6 @@ The model was evaluated using three key metrics:
 | Interval Similarity | Cosine similarity of note intervals | Higher is better |
 | Rhythm Similarity | Cosine similarity of rhythmic patterns | Higher is better |
 
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/music-generation-lstm.git
-cd music-generation-lstm
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 1. Prepare your MIDI files:
    - Place training files in `jazz_sample_files/`
