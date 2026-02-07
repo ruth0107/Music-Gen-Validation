@@ -91,4 +91,3 @@ Sample generated music can be saved as MIDI files using the provided utilities.
 
 ---
 
-*Note: Replace placeholder values with your actual results and GitHub URLs*
